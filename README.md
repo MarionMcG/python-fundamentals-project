@@ -14,7 +14,7 @@ In this file you will find:
 2. Instructions on how to open the notebook on your machine.
 3. How to run code cells in an open ipynb notebook.
 
-Alternatively you can view my Jupyter notebook, [here](https://raw.githubusercontent.com/MarionMcG/python-fundamentals-project/master/exam-cohort.ipynb).
+Alternatively you can view my Jupyter notebook, [here](http://nbviewer.jupyter.org/github/MarionMcG/python-fundamentals-project/blob/master/exam-cohort.ipynb).
 
 ### 1. Downloading an ipynb file from Github
 * I'd recommend that you download or clone the entire repository with all of its dependencies, rather than just downloading the ipynb notebook. 
