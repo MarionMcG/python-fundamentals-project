@@ -3,18 +3,13 @@
 
 **Project Intentions**
 
-* Choose a real-world phenomenon that can be measured and for which I can collect at least one-hundred data points across at least four different variables.
+* Choose a real-world phenomenon that can be measured - I chose Irish State examination results and variable that impact attainment.
 * Investigate the types of variables involved, their likely distributions, and their relationships with each other.
 * Synthesise/simulate a data set as closely matching their properties as possible.
 
-In this repository you will find my investigation. The body of my work is contained in the Jupyter notebook above; including all code, explanations and references. 
+My investigation is contained in the Jupyter notebook above.
 
-In this file you will find:
-1. Information on how to download and save the ipynb notebook.
-2. Instructions on how to open the notebook on your machine.
-3. How to run code cells in an open ipynb notebook.
-
-Alternatively you can view my Jupyter notebook, [here](http://nbviewer.jupyter.org/github/MarionMcG/python-fundamentals-project/blob/master/exam-cohort.ipynb).
+If you're unfamiliar with Jupyter notebooks, notes on how to download and use the ipynb file can be found below. Alternatively, you can view my Jupyter notebook, [here](http://nbviewer.jupyter.org/github/MarionMcG/python-fundamentals-project/blob/master/exam-cohort.ipynb).
 
 ### 1. Downloading an ipynb file from Github
 * I'd recommend that you download or clone the entire repository with all of its dependencies, rather than just downloading the ipynb notebook. 
